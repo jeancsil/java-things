@@ -1,0 +1,14 @@
+# Bytecode files
+
+#Log files
+*.class
+*.log
+
+#IDE
+.idea
+
+#Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
